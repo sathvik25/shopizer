@@ -89,11 +89,11 @@
 
 		
 		<!-- Enables login with facebook, for now it is using milestone -->
-		<dependency>
+		<!--<dependency>
     		<groupId>org.springframework.social</groupId>
     		<artifactId>spring-social-facebook</artifactId>
     		<version>${spring-social-facebook.version}</version>
-		</dependency>
+		</dependency> -->
 
         <dependency>
               <groupId>org.springframework.boot</groupId>
